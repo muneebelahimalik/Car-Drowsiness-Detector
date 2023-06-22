@@ -1,6 +1,6 @@
 # Car Drowsiness Detector
 
-![Car Drowsiness Detector](images/banner.png)
+![image](https://github.com/muneebelahimalik/Car-Drowsiness-Detector/assets/59524535/4a4ea3ac-aa36-4f3c-9801-9c0496c485cc)
 
 The Car Drowsiness Detector is an innovative solution that helps prevent accidents caused by drowsy driving. By using computer vision and deep learning techniques, the system monitors the driver's eyes in real-time and alerts them if they start to close or show signs of drowsiness.
 
@@ -10,7 +10,7 @@ The Car Drowsiness Detector is an innovative solution that helps prevent acciden
 - Alert system when driver's eyes are closed or drowsiness is detected
 - Works with a standard webcam
 - Easy to use and integrate into existing car systems
-- Can be deployed to systems with low 
+- Deployable to systems with low storage or computing power, as it is designed to be computationally efficient
 
 ## How It Works
 
