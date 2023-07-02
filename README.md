@@ -56,7 +56,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Contact
 
 For any questions or inquiries, please contact: 
-
 **Muneeb Elahi Malik**
+muneebelahimalik.github.io
 Email: muneebellahi2001@gmail.com
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muneeb-elahi-malik)
